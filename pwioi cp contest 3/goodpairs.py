@@ -2,7 +2,7 @@ t = int(input())
 
 for _ in range(t):
     n = int(input())
-    a = list(map(int, input().split()))
+    a = list(MAP(int, input().split()))
 
     
     min_index = 0
