@@ -23,4 +23,5 @@ int main(){
         }
     }
     return 0 ;
+    // by mee solution of 800 rating og TLE SHEET 
 }
