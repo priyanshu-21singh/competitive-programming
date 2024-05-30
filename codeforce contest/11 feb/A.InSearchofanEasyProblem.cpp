@@ -14,7 +14,7 @@ int main() {
     if(sum){
         cout<<"HARD" << endl;
     }else{
-        cout<<"EASY" << endl;
+        cout<<"easy" << endl;
     }
     return 0;
 }
