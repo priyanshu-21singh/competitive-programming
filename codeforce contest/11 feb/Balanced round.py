@@ -22,6 +22,7 @@ for _ in range(t):
         else:
             ans = max(ans, local)
             local = 1
+            // created by priyanshu 
 
     ans = max(ans, local)
     print(n - ans)
