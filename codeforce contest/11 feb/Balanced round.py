@@ -3,7 +3,7 @@ t = int(input())
 for _ in range(t):
     n, k = map(int, input().split())
     a = list(map(int, input().split()))
-    // pyth
+    // python code 
 
     ans = 1
     local = 1
