@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-// create
+// created
 int main(){
     int t;
     cin>>t;
