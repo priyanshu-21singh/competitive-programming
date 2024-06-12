@@ -2,7 +2,7 @@
 #include <string.h>
 char* removeUtil(char* str, char* last_removed)
 {
- if (str[0] == '\0' || str[1] == '\0')
+ if (str[0] == '\0' || str[1] == '\0')   
         return str;
  if (str[0] == str[1]) {
         *last_removed = str[0];
