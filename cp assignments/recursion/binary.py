@@ -3,7 +3,7 @@ def find( decimal_number ):
         return 0
     else:
         return (decimal_number % 2 + 10 *
-                find(int(decimal_number // 2)))
+                find(int(decimal_number // 2)))  
  
 
 decimal_number = 5
