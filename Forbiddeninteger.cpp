@@ -5,7 +5,7 @@ int main()
 {
 
     int testcase;
-    cin >> testcase;
+    cin >> testcase;           
     while(testcase--){ 
         int n, k, x;
         cin >> n >> k >> x;
