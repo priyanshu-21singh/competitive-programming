@@ -7,6 +7,10 @@ for _ in range(t):
     
     ans = 0
     i = 0
+
+
+
+    
     for j in range(len(b)):
         if b[j] == a[i]:
             ans += 1
