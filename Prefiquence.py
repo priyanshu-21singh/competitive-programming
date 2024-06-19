@@ -13,6 +13,7 @@ for _ in range(t):
 
     
     for j in range(len(b)):
+        
         if b[j] == a[i]:
             ans += 1
             i += 1
