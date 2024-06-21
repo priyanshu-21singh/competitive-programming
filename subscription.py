@@ -7,6 +7,7 @@ def min_total_cost(N, X):
     total_cost = subscriptions * X
 
     return total_cost
+
 # Function to handle each test case.
 def solve_test_case():
     # Input for each test case
