@@ -1,3 +1,4 @@
+
 def min_total_cost(N, X):
     # Calculate the minimum number of subscriptions needed.
     subscriptions = (N + 5) // 6
