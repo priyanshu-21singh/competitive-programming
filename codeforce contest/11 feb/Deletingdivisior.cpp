@@ -1,4 +1,4 @@
-// 1700 
+// 1700  rating question on codeforce solved by me 
 #include <iostream>
 using namespace std;
 
