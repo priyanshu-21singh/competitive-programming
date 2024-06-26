@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-// created by 
+// created by m
 int main(){
     int t;
     cin>>t;
