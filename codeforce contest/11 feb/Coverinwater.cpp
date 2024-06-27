@@ -1,4 +1,4 @@
-// author @priyanshu
+// author @priyanshu  
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
