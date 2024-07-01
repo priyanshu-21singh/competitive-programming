@@ -5,6 +5,7 @@ int factorial(int n){
     return n*factorial(n-1);
 }
 
+
 int main(){
     int n;
     printf("Enter a number:");
