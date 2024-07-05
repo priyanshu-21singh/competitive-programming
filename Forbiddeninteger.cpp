@@ -46,7 +46,7 @@ int testcase;
                     cout << endl;
                     continue;
             }
-            else if((n%2 == 0 && x == 2) || (n%2 != 0 && x != 1)){
+        else if((n%2 == 0 && x == 2) || (n%2 != 0 && x != 1)){
                 cout << "YES" << endl;
                 cout << n << endl;
                 for(int i=1; i<=n; i++){
