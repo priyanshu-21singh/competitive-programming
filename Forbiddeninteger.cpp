@@ -1,9 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 int main() 
 {
-    int testcase;
+int testcase;
     cin >> testcase;           
     while(testcase--){ 
         int n, k, x;
