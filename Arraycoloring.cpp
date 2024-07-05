@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 // created by me  on 04/05/2024
 
 int main(){
