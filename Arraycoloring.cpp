@@ -18,7 +18,8 @@ int main(){
             }else{
                 odd++;
             }
-        }if(odd%2 == 0){
+        }
+        if(odd%2 == 0){
             cout<<"YES"<<endl;
         }else if(odd%2!=0){
             cout<<"NO"<<endl;
