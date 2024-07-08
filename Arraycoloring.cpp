@@ -15,8 +15,7 @@ int main(){
             if(arr[i]%2 == 0){
                 even++;
             }else{
-                odd++;
-            }
+                odd++;}
         }
         if(odd%2 == 0){
             cout<<"YES"<<endl;
