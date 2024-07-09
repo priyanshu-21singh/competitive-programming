@@ -10,7 +10,6 @@ int main() {
         cin >> n >> q;
         ll arr[n];
         for (ll i = 0; i < n; i++) cin >> arr[i];
-
         ll brr[q];
         for (ll i = 0; i < q; i++) cin >> brr[i];
 
