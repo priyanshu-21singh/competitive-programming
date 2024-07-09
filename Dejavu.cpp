@@ -8,7 +8,6 @@ int main() {
     while (t--) {
         ll n, q;
         cin >> n >> q;
-
         ll arr[n];
         for (ll i = 0; i < n; i++) cin >> arr[i];
 
