@@ -1,4 +1,5 @@
 #include <iostream>
+
 main(){
 long long a;
 std::cin>>a;
