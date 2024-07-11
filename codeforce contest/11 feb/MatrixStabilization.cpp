@@ -6,7 +6,6 @@ int main() {
     while (testtc--) {
         int p, r;
         cin >> p >> r;
-
         vector<vector<long long>> a(p, vector<long long>(r));
         for (int i = 0; i < p; ++i) {
             for (int j = 0; j < r; ++j) {
