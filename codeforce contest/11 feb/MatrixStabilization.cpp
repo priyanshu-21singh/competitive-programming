@@ -47,8 +47,7 @@ int main() {
             int rj = pri.second;
             a[pi][rj] -= 1;
         }
-
-        // Output the resulting matrix
+// Output the resulting matrix
         for (int i = 0; i < p; ++i) {
             for (int j = 0; j < r; ++j) {
                 cout << a[i][j] << " ";
