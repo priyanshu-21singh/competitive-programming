@@ -4,8 +4,7 @@ for _ in range(t):
     n, k = map(int, input().split())
     a = list(map(int, input().split()))
     // python code 
-
-    ans = 1
+ans = 1
     local = 1
     for i in range(1, n):
         if abs(a[i] - a[i - 1]) <= k:
