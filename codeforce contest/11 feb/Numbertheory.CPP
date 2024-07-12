@@ -2,7 +2,6 @@
 #include <vector>
 #include <cmath>
 using namespace std;
-
 const int MOD = 1000000007;
 
 //  exponentiation
