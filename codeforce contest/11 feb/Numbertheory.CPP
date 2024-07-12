@@ -16,8 +16,6 @@ long long modular_exponentiation(long long base, long long exp, int mod) {
     }
     return result;
 }
-
-
 long long sum_of_powers(long long p, long long k) {
     long long p69 = modular_exponentiation(p, 69, MOD);  // p^69 % MOD 4567
     long long pk69 = modular_exponentiation(p69, k, MOD); // (p^69)^k % MOD 234567
