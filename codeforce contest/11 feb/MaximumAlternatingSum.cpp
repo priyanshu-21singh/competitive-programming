@@ -6,7 +6,8 @@ void solve() {
 	int arr[n], summ = 0;
 	for (int i = 0; i < n; i++) {
 		cin >> arr[i];
-	} // first sort the error...
+	} 
+	// first sort the error...
 	sort(arr, arr + n);
 	 if (n % 2 != 0) {
 		for (int i = 0; i < n; i++) {
