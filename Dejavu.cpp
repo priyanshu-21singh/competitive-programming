@@ -21,8 +21,7 @@ int main() {
                 if (arr[j] % (1 << brr[i]) == 0) arr[j] += (1 << (brr[i] - 1));
             }
         }
-
-        for (auto i : arr) cout << i << " ";
+for (auto i : arr) cout << i << " ";
         cout << '\n';
     }
     return 0;
