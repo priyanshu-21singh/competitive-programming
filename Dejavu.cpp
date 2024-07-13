@@ -12,8 +12,7 @@ int main() {
         for (ll i = 0; i < n; i++) cin >> arr[i];
         ll brr[q];
         for (ll i = 0; i < q; i++) cin >> brr[i];
-
-        set<ll> hs;
+set<ll> hs;
         for (ll i = 0; i < q; i++) {
             if (hs.count(brr[i])) continue;
             hs.insert(brr[i]);
