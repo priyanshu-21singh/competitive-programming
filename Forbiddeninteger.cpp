@@ -10,7 +10,7 @@ int testcase;
         if(k == 1){
             cout << "NO" << endl;
             continue;
-        }
+        } 
         else if(k <= 2){
             if(x == 1){
                 if(n%2 == 0){
