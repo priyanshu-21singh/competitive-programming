@@ -52,7 +52,7 @@ int testcase;
                 for(int i=1; i<=n; i++){
                         cout << 1 << " ";
                     }
-                    cout << endl;
+                    cout << endl; 
                     continue;
             }
             else{
