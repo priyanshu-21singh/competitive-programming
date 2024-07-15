@@ -2,7 +2,6 @@
 
 using namespace std;
 // created by me
-
 int main(){
     int t;
     cin>>t;
