@@ -39,7 +39,7 @@ int main() {
             }
         }
 
-        cout << operations << endl;
+    cout << operations << endl;
     }
 
     return 0;
