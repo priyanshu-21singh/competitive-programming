@@ -24,4 +24,5 @@ for (auto i : arr) cout << i << " ";
         cout << '\n';
     }
     return 0;
+    
 }
