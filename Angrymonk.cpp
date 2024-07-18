@@ -1,7 +1,5 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-#include <functional>
+#include <bits/stdc++.h>
+
 using namespace std;
 
 int main() {
