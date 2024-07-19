@@ -6,7 +6,7 @@ int main() {
 
     //  LCM of x and y
     int p = lcm(x, y);
-
+ 
     //  multiples of p in the range [a b]
     int results = b / p - (a - 1) / p;
 
