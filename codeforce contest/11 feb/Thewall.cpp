@@ -4,7 +4,7 @@ int main() {
     int x, y, a, b;
     cin >> x >> y >> a >> b;
 
-    //  LCM of x and y
+    //  LCM of x and y 
     int p = lcm(x, y);
  
     //  multiples of p in the range [a b]
