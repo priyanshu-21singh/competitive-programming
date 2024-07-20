@@ -8,7 +8,7 @@ int testcase;
         int n, k, x;
         cin >> n >> k >> x;
         if(k == 1){
-            cout << "NO" << endl;
+            cout << "NO" << endl; 
             continue;
         }     
         else if(k <= 2){ 
