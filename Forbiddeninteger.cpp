@@ -11,7 +11,7 @@ int testcase;
             cout << "NO" << endl;
             continue;
         }     
-        else if(k <= 2){
+        else if(k <= 2){ 
             if(x == 1){
                 if(n%2 == 0){
                     cout << "YES" << endl;
