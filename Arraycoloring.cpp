@@ -7,7 +7,7 @@ int main(){
     while(t--){
         
         int n ;
-        cin>>n;
+        cin>>n; 
         vector<int> arr(n);
         int even = 0;
         int odd = 0;
