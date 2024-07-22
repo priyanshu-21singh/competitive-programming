@@ -15,7 +15,7 @@ int main() {
         {
             if (h[i] == a[j])
             {
-                number += 1;
+                number += 1; 
             }
             
             if (a[i] == h[j])
