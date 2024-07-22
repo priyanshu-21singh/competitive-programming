@@ -20,7 +20,7 @@ int main() {
             
             if (a[i] == h[j])
             {
-                number += 1;
+                number += 1; 
             }
         }
     }
