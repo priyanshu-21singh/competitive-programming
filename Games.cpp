@@ -5,7 +5,7 @@ int main() {
     int n;
     cin>>n; 
     
-    int number (0);
+    int number (0); 
     
     vector<int> h(n),a(n);
     
