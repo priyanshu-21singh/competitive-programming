@@ -2,6 +2,7 @@ def main():
 	from sys import stdin, stdout
 
 	inp = [int(x) for x in stdin.read().split()]
+	
 
 	n = inp.pop(0)
 	k = inp.pop(0)
