@@ -5,6 +5,7 @@ def main():
 
 	n = inp.pop(0)
 	k = inp.pop(0)
+	
 
 	k_th = inp[k-1]
 	cnt = 0
