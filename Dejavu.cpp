@@ -8,7 +8,7 @@ int main() {
     cin >> t;
     while (t--) {
         ll n, q;
-        cin >> n >> q;
+        cin >> n >> q; 
         ll arr[n];
         for (ll i = 0; i < n; i++) cin >> arr[i];
         ll brr[q];
