@@ -9,6 +9,7 @@ int main() {
         int x;
         cin>>x;
         sum+=x;
+        
     }
 
     if(sum){
