@@ -1,23 +1,15 @@
-#include<iostream>
-
+#include<bits/stdc++.h>
 using namespace std;
 
-int main(){
-    string s1;
-    cin>>s1;
-    int condition = 1;
-    for(int i=1; i<=s1.length(); i++){
-        if(s1[i] == s1[i-1]){
-            condition++;
-            if(condition==7){
-                cout<<"YES"<<endl;
-                return 0;
-            }
-        }else{
-            condition=1;
-        }
-        
-    }
-    cout<<"NO"<<endl;
+string s[128];
+int n, i;
+
+int main() {
+    cin >> n;  
+    for(i = 0; i < n; ++i) 
+        cin >> s[i];  
+
+    sort(s, s + n);  
+    cout << s[n / 2];  
     return 0;
 }
