@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// by meee
+
 int main() {
     int n;
     cin >> n; // Input a value for 'n'
