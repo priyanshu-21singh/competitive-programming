@@ -16,7 +16,7 @@ def max_books(n, t, books):
 
     return max_books_count
 
-#  input
+
 n, t = map(int, input().split())
 books = list(map(int, input().split()))
 
