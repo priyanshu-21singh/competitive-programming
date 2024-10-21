@@ -2,7 +2,6 @@
 using namespace std;
 int main () {
     // author me priyanshu on 8-07-2024
-    
     int t;
     cin>>t;
     while(t--){
