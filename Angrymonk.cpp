@@ -3,22 +3,18 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
-    
-
     int t;
     cin >> t;
     while (t--) {
         long long n;
         int k;
         cin >> n >> k;
-
         priority_queue<long long> pq;
         for (int i = 0; i < k; ++i) {
             long long a;
             cin >> a;
             pq.push(a);
         }
-
         int operations = 0;
         while (pq.size() > 1) {
             long long largest = pq.top();
