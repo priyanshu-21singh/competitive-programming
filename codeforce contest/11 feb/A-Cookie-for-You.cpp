@@ -8,7 +8,7 @@ int main (){
         cin>>a>>b>>n>>m;
         if(a+b<n+m){
             cout<<"No"<<endl;
-            continue;
+        continue;
         }
         if(min(a,b)<m){
             cout<<"No"<<endl;
