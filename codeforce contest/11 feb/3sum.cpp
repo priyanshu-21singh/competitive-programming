@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main () {
+int main () { 
     // author me priyanshu on 8-07-2024
     int t;
     cin>>t;
