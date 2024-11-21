@@ -10,8 +10,7 @@ def max_books(n, t, books):
         while current_time > t:
             current_time -= books[left]
             left += 1
-
-        max_books_count = max(max_books_count, right - left + 1)
+ max_books_count = max(max_books_count, right - left + 1)
         right += 1
 
     return max_books_count
