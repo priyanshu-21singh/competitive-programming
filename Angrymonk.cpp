@@ -19,7 +19,7 @@ int main() {
         while (pq.size() > 1) {
             long long largest = pq.top();
             pq.pop();
-
+            
             if (largest > 1) {
                 pq.push(1);
                 pq.push(largest - 1);
